@@ -2,6 +2,10 @@
 
 This is a **Tic Tac Toe** game developed using **HTML**, **CSS**, and **JavaScript**. The application allows users to play against each other with an interactive, dynamic board and includes keyboard accessibility for ease of play.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/898135ec-9db8-429f-8b0e-c3f2193f69d5" alt="Tic Tac Toe Preview 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c12830c6-9e5f-440c-9096-e8db317ba196" alt="Tic Tac Toe Preview 2" width="45%" />
+</p>
 
 
 
